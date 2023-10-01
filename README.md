@@ -1,5 +1,9 @@
 # Flappy Bird Game
 
+**Login Details**
+1.ID:siddappa
+2.Password:siddu123,
+
 **Description:**
 
 Flappy Bird Game is a classic arcade game developed using Pygame, a popular Python library for game development. This project was created as a part of my final year project. The game features a bird that the player controls by tapping the spacebar, making the bird navigate through pipes without colliding.
