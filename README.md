@@ -2,9 +2,9 @@
 
 **Login Details**
 
-1.ID:siddappa
+Username:siddappa
 <br>
-2.Password:siddu123,
+Password:siddu123,
 
 **Description:**
 
